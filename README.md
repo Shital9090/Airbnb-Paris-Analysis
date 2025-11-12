@@ -1,6 +1,7 @@
 ("![Paris Airbnb View](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/1a/f3/0d.jpg)"
 # 🏠 Airbnb Paris Analysis
 
+
 This project explores the **Airbnb rental landscape in Paris**, analyzing listing prices, availability, host behavior, and regulatory impact using **Python and Jupyter Notebook**.
 
 The goal is to understand:
