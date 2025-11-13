@@ -93,7 +93,7 @@ The goal is to understand:
 Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris**
-  ![Listings Growth](Shital9090/Airbnb-Paris-Analysis/blob/main/listings_growth.png.png)
+  ![Listings Growth](listings_growth.png.png)
 
 * **Average Price by Locality**
   ![Price by Locality](<img width="867" height="523" alt="Screenshot 2025-11-13 125126" src="https://github.com/user-attachments/assets/acb4602d-159f-4042-875f-1cf1434ea23c" />
