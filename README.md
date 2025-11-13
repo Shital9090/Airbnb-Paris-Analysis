@@ -93,13 +93,13 @@ The goal is to understand:
 Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris**
-  ![Listings Growth](images/listings_growth.png)
+  ![Listings Growth]("C:\Users\shital kamble\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 125338.png")
 
 * **Average Price by Locality**
-  ![Price by Locality](images/price_locality.png)
+  ![Price by Locality]("C:\Users\shital kamble\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 125126.png")
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+  ![Regulation Impact]("C:\Users\shital kamble\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 125227.png")
 
 ---
 
