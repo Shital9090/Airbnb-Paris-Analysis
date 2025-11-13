@@ -96,7 +96,8 @@ Here are some key visualizations from the analysis:
   ![Listings Growth]("C:\Users\shital kamble\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 125338.png")
 
 * **Average Price by Locality**
-  ![Price by Locality]("C:\Users\shital kamble\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 125126.png")
+  ![Price by Locality](<img width="867" height="523" alt="Screenshot 2025-11-13 125126" src="https://github.com/user-attachments/assets/acb4602d-159f-4042-875f-1cf1434ea23c" />
+)
 
 * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact]("C:\Users\shital kamble\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 125227.png")
