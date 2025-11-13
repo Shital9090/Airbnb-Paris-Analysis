@@ -100,7 +100,7 @@ Here are some key visualizations from the analysis:
 )
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact]("C:\Users\shital kamble\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 125227.png")
+  ![Regulation Impact](Shital9090/Airbnb-Paris-Analysis/blob/main/regulation_impact.png.png)
 
 ---
 
